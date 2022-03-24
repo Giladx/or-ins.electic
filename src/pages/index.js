@@ -91,7 +91,7 @@ const Index = (props) => {
               </div>
               <div className={styles['container05']}>
                 <a
-                  href="https://or-ins.info/noga/?input4=%D7%9E%D7%A9%D7%9B%D7%A0%D7%AA%D7%90"
+                  href="https://or-ins.info/electric/?input4=%D7%9E%D7%A9%D7%9B%D7%A0%D7%AA%D7%90"
                   target="_blank"
                   rel="noreferrer noopener"
                   className={styles['link']}
@@ -133,7 +133,7 @@ const Index = (props) => {
             </div>
             <div className={styles['Travel-Button-Desktop']}>
               <a
-                href="https://or-ins.info/noga/?input4=%D7%97%D7%95%22%D7%9C"
+                href="https://or-ins.info/electric/?input4=%D7%97%D7%95%22%D7%9C"
                 target="_blank"
                 rel="noreferrer noopener"
                 className={styles['link01']}
@@ -173,7 +173,7 @@ const Index = (props) => {
           <span className={styles['text13']}>!מהנמוכות בשוק</span>
           <div className={styles['container07']}>
             <a
-              href="https://or-ins.info/noga/?input4=%D7%97%D7%95%22%D7%9C"
+              href="https://or-ins.info/electric/?input4=%D7%97%D7%95%22%D7%9C"
               target="_blank"
               rel="noreferrer noopener"
               className={styles['link02']}
@@ -237,7 +237,7 @@ const Index = (props) => {
               </div>
               <div className={styles['container13']}>
                 <a
-                  href="https://or-ins.info/noga/?input4=%D7%A8%D7%9B%D7%91"
+                  href="https://or-ins.info/electric/?input4=%D7%A8%D7%9B%D7%91"
                   target="_blank"
                   rel="noreferrer noopener"
                   className={styles['link03']}
@@ -305,7 +305,7 @@ const Index = (props) => {
               </div>
               <div className={styles['container22']}>
                 <a
-                  href="https://or-ins.info/noga/?input4=%D7%93%D7%99%D7%A8%D7%94"
+                  href="https://or-ins.info/electric/?input4=%D7%93%D7%99%D7%A8%D7%94"
                   target="_blank"
                   rel="noreferrer noopener"
                   className={styles['link04']}
@@ -378,7 +378,7 @@ const Index = (props) => {
           </div>
           <div className={styles['container30']}>
             <a
-              href="https://or-ins.info/noga/?input4=%D7%9E%D7%A9%D7%9B%D7%A0%D7%AA%D7%90"
+              href="https://or-ins.info/electric/?input4=%D7%9E%D7%A9%D7%9B%D7%A0%D7%AA%D7%90"
               target="_blank"
               rel="noreferrer noopener"
               className={styles['link05']}
@@ -449,7 +449,7 @@ const Index = (props) => {
         </div>
         <div className={styles['container35']}>
           <a
-            href="https://or-ins.info/noga/?input4=%D7%93%D7%99%D7%A8%D7%94"
+            href="https://or-ins.info/electric/?input4=%D7%93%D7%99%D7%A8%D7%94"
             target="_blank"
             rel="noreferrer noopener"
             className={styles['link06']}
@@ -519,7 +519,7 @@ const Index = (props) => {
         </div>
         <div className={styles['container40']}>
           <a
-            href="https://or-ins.info/noga/?input4=%D7%A8%D7%9B%D7%91"
+            href="https://or-ins.info/electric/?input4=%D7%A8%D7%9B%D7%91"
             target="_blank"
             rel="noreferrer noopener"
             className={styles['link07']}

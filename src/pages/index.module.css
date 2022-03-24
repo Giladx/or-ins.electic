@@ -1699,9 +1699,9 @@
     height: 120px;
   }
   .Logo-Noga1 {
-    width: 100%;
-    height: auto;
-    margin-right: var(--dl-space-space-twounits);
+    width: 207px;
+    height: 93px;
+    margin-right: var(--dl-space-space-sixunits);
   }
   .Title-Travel {
     width: 80%;
@@ -2784,6 +2784,7 @@
   .Logo-Noga1 {
     width: 120%;
     height: auto;
+    margin-right: var(--dl-space-space-fourunits);
   }
   .text {
     font-size: 9vw;
