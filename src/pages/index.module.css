@@ -66,6 +66,7 @@
   width: 100%;
   align-self: center;
   object-fit: cover;
+  margin-right: var(--dl-space-space-sixunits);
   text-decoration: none;
 }
 .Space-Head {
