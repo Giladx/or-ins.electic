@@ -10,15 +10,15 @@ const Index = (props) => {
   return (
     <div className={styles['container']}>
       <Helmet>
-        <title>אור ביטוח - נגה</title>
+        <title>אור ביטוח - חברת החשמל</title>
         <meta
           name="description"
-          content="כל הביטוחים וההטבות לקבוצת נגה מאור ביטוח"
+          content="כל הביטוחים וההטבות לחברת החשמל מאור ביטוח"
         />
-        <meta property="og:title" content="אור ביטוח - נגה" />
+        <meta property="og:title" content="אור ביטוח - חברת החשמל" />
         <meta
           property="og:description"
-          content="כל הביטוחים וההטבות לקבוצת נגה מאור ביטוח"
+          content="כל הביטוחים וההטבות לחברת החשמל מאור ביטוח"
         />
         <meta
           property="og:image"
