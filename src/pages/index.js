@@ -42,7 +42,7 @@ const Index = (props) => {
           <Link to="/" className={styles['navlink1']}>
             <img
               alt="image"
-              src="/playground_assets/hashmal-200h.png"
+              src="/playground_assets/logo_wide-200h.png"
               loading="lazy"
               className={styles['Logo-Noga1']}
             />
